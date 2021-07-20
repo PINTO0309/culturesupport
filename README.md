@@ -2,7 +2,7 @@
 
 - 👀 Hi : Working Understanding Svelte :) 
 
-- 🌱 I’m currently learning ...  
+- 🌱 I’m currently learning build width Svetle & Use Github ...  
 
 
 - Start A Discussion Here Regarding Wanted App Projects / Questions
