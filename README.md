@@ -4,6 +4,11 @@
 
 - 🌱 I’m currently learning ...  
 
+
+- Start A Discussion Here Regarding Wanted App Projects / Questions
+
+- https://github.com/culturesupport/Our-Custom-Svelte-App/discussions
+
 ```
 svelte + jquery + html5
 
@@ -66,10 +71,4 @@ svelte + customisation + multimodal languages + Movie Frameworks
 
 ```
 
-
-
-- 💞️ Collaborate On :  Svelte Open Source Project
-- 📫 How To Reach Me : 
-- Manage A Pull Request 
-- We Can Manage Our Wanted Desire :)
 
