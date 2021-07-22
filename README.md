@@ -1,9 +1,14 @@
 ```
 We Appoligize You Now Insane 
 
-- You Can Get AnyThing Back
+- You Cant Get AnyThing Back
 - The Damaged Life Is Not Replacement 
 - The Destroyed Positive Fake Smile Cant Help
+- There is so Much We Know
+- You Are Not More Usefull. 
+
+-------------------
+- byebye 🤝 
 
 ```
 
