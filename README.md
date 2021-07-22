@@ -9,6 +9,9 @@ We Appoligize You Now Insane
 
 -------------------
 - byebye 🤝 
+----
+- Last Memory : 
+You Are Now Forgotten
 
 ```
 
