@@ -1,17 +1,12 @@
 ```
-We Appoligize You Now Insane 
+We Maintaining Prints & Perfectionism 
 
-- You Cant Get AnyThing Back
-- The Damaged Life Is Not Replacement 
-- The Destroyed Positive Fake Smile Cant Help
-- There is so Much We Know
-- You Are Not More Usefull. 
+- Make Greatfull & Thankfull Design 
 
 -------------------
-- byebye 🤝 
+- Positive 🤝 
 ----
-- Last Memory : 
-You Are Now Forgotten
+- Make Item Production 
 
 ```
 
