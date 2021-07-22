@@ -13,6 +13,10 @@ Name it :  Github Username/readme.md
 
 it should be like : Example/Example/readme.md
 
+
+it should be like : username/username/readme.md
+
+write 📝  Profile info 
 ```
 
 ```
