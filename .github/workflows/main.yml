@@ -56,4 +56,4 @@ jobs:
           plugin_projects_limit: 20
           plugin_projects_repositories: culturesupport
           plugin_stars: yes
-          plugin_stars_limit: 22
+          plugin_stars_limit: 100
