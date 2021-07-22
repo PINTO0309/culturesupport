@@ -24,6 +24,33 @@ https://metrics.lecoq.io/
 
 Load Action Into Action On Profile.md Repository 🔗 
 
+
+Username/username/readme.md
+
+Username/username   Github Action 
+
+Make A New Github Action 
+
+Load Action From https://metrics.lecoq.io/  Where You Pushed Your Github Username Info
+
+
+Make Copy Of Actions  & Paste it inside main.yml file profile repo
+
+Make A Copy Of Markdown Code  From https://metrics.lecoq.io/   
+
+Paste it inside readme md. 
+
+
+Both Github Action inside Repository
+And Readme Md file Need Have Updated Info from https://metrics.lecoq.io/
+
+
+Make A New Github Actions .
+And Simply Copy Updated info from username inside https://metrics.lecoq.io/
+copy the github action & replace the github action first starter info inside main.yml 
+
+To Work Properly : Activate & Get info from user inside https://metrics.lecoq.io/
+
 ```
 
 - Start A Discussion Here Regarding Wanted App Projects / Questions
