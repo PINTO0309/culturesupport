@@ -1,11 +1,43 @@
 ```
-- Topics
+- #Topics :
 -------------------
-- Podcast
+- 3dprint
 ----
-- Hip Hop
------------------
+- Hacks 
+-------------------
+- 🕶️ ⚙️ -> ⌚ 
 
+- 🕶️ ⚙️ -> 💻 
+
+- 🕶️ ⚙️ -> 📺 
+
+- 🕶️ ⚙️ -> ☁️
+
+- 🕶️ ⚙️ -> 📳
+
+- 🕶️ ⚙️ -> 🖨️ 3d Print : CNC PCB Circuits
+
+- 🕶️ ⚙️ -> 🗂️ All Language & File Compitable 
+
+- 🕶️ ⚙️ -> 🗂️ Multimedia Compitable 🎬
+
+- 🕶️ ⚙️ -> 🌏 Home / Public / Wifi Network Compitable
+
+- 🕶️ ⚙️ -> 🌏 📈 MachineLearning.Trade Compitable 
+
+- 🕶️ ⚙️ -> 🌏 📈 📅 Register Dates Trade With 👓 MachineLearning.Trade 
+
+- 🕶️ ⚙️ -> 🌏 📈 📅 📃 Register Contracts 👓 MachineLearning.Trade 
+
+- 🕶️ ⚙️ -> 🌏 📈 📅 📃 Register 💳 Digital Artractive Cards 👓 MachineLearning.Trade
+
+- 🕶️ ⚙️ -> 💳 Micro Digital Artractive Cards 👓 MachineLearning.Trade
+--------------------------------------------
+- ☁️ 3d Print Cloud
+-----------------
+- ☁️ 3d Print Glass 🕶️ ⚙️
+--------------------------------------------
+- ☁️ 3d Print Cloud
 ```
   
 
