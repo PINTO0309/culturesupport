@@ -1,15 +1,13 @@
 ```
-We Maintaining Prints & Perfectionism 
-
-- Make Greatfull & Thankfull Design 
 
 -------------------
-- Positive 🤝 
+
 ----
-- Make Item Production 
+- End Of Life
 
 ```
 
+- Ending Life , Nobody Shall Steal
 
 
 
